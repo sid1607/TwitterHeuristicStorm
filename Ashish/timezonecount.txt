@@ -1,0 +1,188 @@
+Zone:Seoul  Count:1 AVG:1.0
+
+Zone:null  Count:1 AVG:33.0
+
+Zone:Warsaw  Count:1 AVG:140.0
+
+Zone:Sapporo  Count:1 AVG:6.0
+
+Zone:Moscow  Count:1 AVG:67.0
+
+Zone:Quito  Count:1 AVG:70.0
+
+Zone:Athens  Count:1 AVG:5.0
+
+Zone:Bucharest  Count:1 AVG:83.0
+
+Zone:Mountain Time (US & Canada)  Count:1 AVG:22.0
+
+Zone:Caracas  Count:1 AVG:30.0
+
+Zone:Amsterdam  Count:1 AVG:24.0
+
+Zone:Baghdad  Count:1 AVG:70.0
+
+Zone:Buenos Aires  Count:1 AVG:32.0
+
+Zone:London  Count:1 AVG:66.0
+
+Zone:Kuala Lumpur  Count:1 AVG:10.0
+
+Zone:Bogota  Count:1 AVG:68.0
+
+Zone:Abu Dhabi  Count:1 AVG:125.0
+
+Zone:Greenland  Count:1 AVG:21.0
+
+Zone:Santiago  Count:1 AVG:39.0
+
+Zone:Istanbul  Count:1 AVG:43.0
+
+Zone:Pacific Time (US & Canada)  Count:1 AVG:41.0
+
+Zone:Dublin  Count:1 AVG:122.0
+
+Zone:Budapest  Count:1 AVG:108.0
+
+Zone:Muscat  Count:1 AVG:51.0
+
+Zone:Kuwait  Count:1 AVG:60.0
+
+Zone:Pretoria  Count:1 AVG:50.0
+
+Zone:Azores  Count:1 AVG:139.0
+
+Zone:Osaka  Count:1 AVG:23.0
+
+Zone:Islamabad  Count:1 AVG:62.0
+
+Zone:Jakarta  Count:1 AVG:44.0
+
+Zone:Tokyo  Count:1 AVG:14.0
+
+Zone:Berlin  Count:1 AVG:25.0
+
+Zone:Madrid  Count:1 AVG:44.0
+
+Zone:Casablanca  Count:1 AVG:57.0
+
+Zone:Hawaii  Count:1 AVG:10.0
+
+Zone:Eastern Time (US & Canada)  Count:1 AVG:42.0
+
+Zone:Riyadh  Count:1 AVG:62.0
+
+Zone:Bangkok  Count:1 AVG:8.0
+
+Zone:Baku  Count:1 AVG:49.0
+
+Zone:Singapore  Count:1 AVG:46.0
+
+Zone:Paris  Count:1 AVG:31.0
+
+Zone:Alaska  Count:1 AVG:44.0
+
+Zone:Beijing  Count:1 AVG:58.0
+
+Zone:Minsk  Count:1 AVG:107.0
+
+Zone:Mid-Atlantic  Count:1 AVG:8.0
+
+Zone:Atlantic Time (Canada)  Count:1 AVG:4.0
+
+Zone:Central America  Count:1 AVG:84.0
+
+Zone:Central Time (US & Canada)  Count:1 AVG:21.0
+
+Zone:Brasilia  Count:1 AVG:68.0
+
+Zone:Irkutsk  Count:1 AVG:18.0
+
+Zone:null  Count:99 AVG:0.0
+
+Zone:Mumbai  Count:1 AVG:37.0
+
+Zone:Hong Kong  Count:1 AVG:61.0
+
+Zone:Moscow  Count:1 AVG:93.0
+
+Zone:Quito  Count:4 AVG:3.0
+
+Zone:Stockholm  Count:1 AVG:73.0
+
+Zone:Athens  Count:8 AVG:6.0
+
+Zone:Mountain Time (US & Canada)  Count:2 AVG:52.0
+
+Zone:Amsterdam  Count:6 AVG:3.0
+
+Zone:Baghdad  Count:3 AVG:7.0
+
+Zone:Kuala Lumpur  Count:7 AVG:7.0
+
+Zone:London  Count:2 AVG:7.0
+
+Zone:Buenos Aires  Count:2 AVG:5.0
+
+Zone:Bogota  Count:1 AVG:38.0
+
+Zone:Abu Dhabi  Count:1 AVG:25.0
+
+Zone:Greenland  Count:1 AVG:78.0
+
+Zone:Brussels  Count:3 AVG:17.0
+
+Zone:Copenhagen  Count:2 AVG:31.0
+
+Zone:Santiago  Count:5 AVG:6.0
+
+Zone:Pacific Time (US & Canada)  Count:8 AVG:3.0
+
+Zone:Rome  Count:1 AVG:136.0
+
+Zone:Budapest  Count:1 AVG:48.0
+
+Zone:International Date Line West  Count:1 AVG:35.0
+
+Zone:Osaka  Count:1 AVG:26.0
+
+Zone:Monterrey  Count:1 AVG:66.0
+
+Zone:Jakarta  Count:2 AVG:70.0
+
+Zone:Tokyo  Count:28 AVG:0.0
+
+Zone:Berlin  Count:1 AVG:88.0
+
+Zone:Hawaii  Count:12 AVG:8.0
+
+Zone:Madrid  Count:2 AVG:22.0
+
+Zone:Casablanca  Count:1 AVG:76.0
+
+Zone:Eastern Time (US & Canada)  Count:10 AVG:9.0
+
+Zone:Riyadh  Count:1 AVG:83.0
+
+Zone:Lisbon  Count:1 AVG:59.0
+
+Zone:Bangkok  Count:11 AVG:6.0
+
+Zone:Arizona  Count:2 AVG:25.0
+
+Zone:Paris  Count:2 AVG:66.0
+
+Zone:Beijing  Count:11 AVG:3.0
+
+Zone:Alaska  Count:2 AVG:10.0
+
+Zone:Mid-Atlantic  Count:1 AVG:16.0
+
+Zone:Atlantic Time (Canada)  Count:5 AVG:4.0
+
+Zone:Central Time (US & Canada)  Count:10 AVG:2.0
+
+Zone:Brasilia  Count:14 AVG:3.0
+
+Zone:Irkutsk  Count:13 AVG:1.0
+
