@@ -1,0 +1,96 @@
+Seoul::26
+Warsaw::6
+Mumbai::6
+Hong Kong::6
+Stockholm::1
+Bucharest::1
+Vilnius::1
+Mountain Time (US & Canada)::38
+Baghdad::71
+Amsterdam::70
+Sofia::1
+Novosibirsk::1
+Melbourne::4
+Buenos Aires::21
+Bogota::1
+Greenland::25
+Abu Dhabi::32
+Belgrade::1
+Brussels::1
+Vladivostok::1
+Chennai::11
+Istanbul::14
+Dublin::2
+Karachi::3
+Kuwait::11
+Kolkata::1
+Vienna::1
+Pretoria::3
+Islamabad::3
+Monterrey::1
+Berlin::9
+Tokyo::374
+Madrid::10
+Kathmandu::1
+Perth::3
+Eastern Time (US & Canada)::100
+Taipei::2
+Helsinki::2
+Cairo::11
+Bangkok::248
+Paris::18
+Wellington::1
+Beijing::105
+Minsk::3
+Atlantic Time (Canada)::31
+Jerusalem::2
+West Central Africa::4
+Irkutsk::191
+Brasilia::36
+Edinburgh::3
+Ljubljana::2
+Volgograd::1
+Sapporo::5
+Mazatlan::3
+Moscow::18
+Kyiv::2
+Kabul::2
+Quito::64
+Athens::92
+Yerevan::1
+Caracas::8
+London::36
+Kuala Lumpur::42
+Nuku'alofa::2
+Adelaide::2
+Riga::1
+Brisbane::10
+Guadalajara::2
+Copenhagen::1
+Santiago::17
+Pacific Time (US & Canada)::242
+Rome::12
+Budapest::1
+International Date Line West::1
+New Caledonia::2
+Azores::1
+Sydney::6
+Osaka::27
+Hanoi::2
+Almaty::7
+Tehran::3
+Jakarta::85
+Mexico City::6
+Hawaii::141
+Casablanca::11
+Riyadh::24
+Lisbon::2
+Arizona::97
+Singapore::19
+New Delhi::2
+Alaska::59
+Auckland::6
+Mid-Atlantic::2
+Prague::3
+Central Time (US & Canada)::122
+Central America::1
